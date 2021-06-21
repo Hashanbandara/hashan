@@ -5,8 +5,8 @@
 <p align="center">
     Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
     <br>
-        <a href="https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
+        <a href="https://chat.whatsapp.com/EJSfaqmxbvQFmT11o1pATF">Whatsapp Group</a> |
+        <a href="https://youtube.com/channel/UCYOyMNya7Kv8vdS3JQBiYbg">Youtube Channel</a>
     <br>
 </p>
 
@@ -16,12 +16,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+  <a href="">
+    <img src="">
     
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+  <a href="">
+    <img src="">
   </a>
 </p>
 
@@ -42,13 +42,13 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94757405652">
+  <a href="https://wa.me/+94773543652">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
 
   </a>
 </p>
 
-## Queen Amdi bot Features
+## Hashan bot Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -116,10 +116,7 @@ Termux:
 
 $ `bash <(curl -L https://t.ly/tHxh)`
 
-`You need 2 devices to build the Queen Amdi bot!
-You will do the process from the second device. 
-You will only scan QR code with the first device.
-I mean by the first device is you want to install the Queen Amdi.`
+`HASHAN bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ! ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත. පළමු උපාංගයෙන් ඔබට Queen Amdi Bot install කිරීමට අවශ්‍යයි..`
 
 #### 02. Click Deploy button
 
