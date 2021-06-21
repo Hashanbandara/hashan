@@ -4,7 +4,8 @@
     "LANGCODE": "en",
     "AUTHOR": "AsenaDev",
     "STRINGS": {
-        "_asena": {
+        "_menu": {HI HASHANBOT Ⓟ︎Ⓞ︎Ⓦ︎Ⓔ︎Ⓡ︎Ⓔ︎Ⓓ︎ Ⓑ︎Ⓨ︎ Ⓗ︎Ⓐ︎Ⓢ︎Ⓗ︎Ⓐ︎Ⓝ︎ Ⓑ︎Ⓐ︎Ⓝ︎Ⓓ︎Ⓐ︎Ⓡ︎Ⓐ︎ } 
+                 
             "COMMAND": "විධානය",
             "DESC": "විස්තර",
             "EXAMPLE": "උදාහරණයක්",
@@ -218,7 +219,7 @@
         },
         "weather": {
             "WEATHER_DESC": "කාලගුණය පෙන්වයි.",
-            "NEED_LOCATION": "*කරුණාකර ස්ථානයක් ලියන්න!*\n*Example:* ```.weather Colombo```",
+            "NEED_LOCATION": "*කරුණාකර ස්ථානයක් ලියන්න!*\n*Example:* ```.weather Anuradhapura```",
             "LOCATION": "ස්ථානය",
             "TEMP": "උෂ්ණත්වය",
             "DESC": "විස්තර",
