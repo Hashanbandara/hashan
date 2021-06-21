@@ -121,7 +121,7 @@ $ `bash <(curl -L https://t.ly/tHxh)`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
 
-Sinhala tutorial will come out soon : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
+Sinhala tutorial will come out soon : https://youtube.com/channel/UCYOyMNya7Kv8vdS3JQBiYbg
 
 ### ⚒️ Setup Wiki 
 [![Setup](https://image.freepik.com/free-vector/robot-icon-bot-sign-design-chatbot-symbol-concept-voice-support-service-bot-online-support-bot-vector-stock-illustration_100456-34.jpg)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
@@ -154,7 +154,7 @@ By establishing the Queen Amdi, you are deemed to have accepted these responsibi
 
 [![HASHAN BOT](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
 
-[HASHAN BOT](https://youtube.com/channel/UCYOyMNya7Kv8vdS3JQBiYbg)
+[HASHAN BOT YOUTUBE ](https://youtube.com/channel/UCYOyMNya7Kv8vdS3JQBiYbg)
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
