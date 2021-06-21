@@ -96,12 +96,12 @@ Hashan bot යනු සංවර්ධනය සඳහා විවෘත ම�
 
 
 ## 📢 Guide
-> [New support & help group.](https://chat.whatsapp.com/CE768WDzDoR3j6g2NxrpFZ) (New)
+> [New support & help group.](https://chat.whatsapp.com/EJSfaqmxbvQFmT11o1pATF) (New)
 
 > [Install Guide](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/%F0%9F%87%AC%F0%9F%87%A7-How-to-Setup-WhatsAsena)
 
 ## 🔎 What is AN Tech Bot?
-**AN Tech Bot,** is a WhatsApp helper bot.
+**AN Tech Bot,** මෙය හෂාන් බංඩාර ව්සිින් නිර්මානය කරන ලද WHATSAPP BOT කෙනෙකි.
 
 ## Setup
 
@@ -110,8 +110,7 @@ Hashan bot යනු සංවර්ධනය සඳහා විවෘත ම�
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-#### If you are mobile user. You can get QR code by using termux. (Android only. IOS users have to use repl.it button)
-
+#### ඔබ ජංගම ජංගම දුරකථන භාවිතා කරන්නෙක් නම්. Termux භාවිතා කිරීමෙන් ඔබට QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
 Termux:
 
 $ `bash <(curl -L https://t.ly/tHxh)`
@@ -153,9 +152,9 @@ By establishing the Queen Amdi, you are deemed to have accepted these responsibi
 
 ## Developers
 
-[![Black Amda](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+[![HASHAN BOT](https://github.com/BlackAmda.png?size=100)](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
 
-[Black Amda](https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ)
+[HASHAN BOT](https://youtube.com/channel/UCYOyMNya7Kv8vdS3JQBiYbg)
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
